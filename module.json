@@ -43,7 +43,7 @@
   "relationships": {
     "systems": [
       {
-        "id": "vtm5e",
+        "id": "wod5e",
         "compatibility": {
           "minimum": "5.0",
           "verified": "5.1.9"
